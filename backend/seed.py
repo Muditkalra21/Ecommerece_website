@@ -39,7 +39,7 @@ PRODUCTS = [
         "description": "Apple's most powerful iPhone with A17 Pro chip, titanium design, 48MP camera system, and Action button.",
         "price": 159900, "original_price": 164900, "discount_percent": 3,
         "brand": "Apple", "stock": 30, "rating": 4.8, "rating_count": 8921,
-        "image_url": "https://images.unsplash.com/photo-1696446702183-cbd13ea0bcde?w=400&q=80",
+        "image_url": "https://images.unsplash.com/photo-1709178295038-acbeec786fcf?q=80&w=627&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?w=400&q=80",
         "category_slug": "electronics",
     },
     {
