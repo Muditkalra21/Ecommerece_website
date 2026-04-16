@@ -2,6 +2,12 @@
 
 A full-stack e-commerce web application inspired by Flipkart, built with **FastAPI**, **Next.js**, and **PostgreSQL**.
 
+🌐 **Live Demo:** [Click here to view](https://ecomwebsite-two.vercel.app/)
+
+## Results 
+
+[View Results](results/)
+
 ---
 
 ## Tech Stack
@@ -392,12 +398,13 @@ cd flipkart-clone
 ### 2. Backend Setup
 
 ```bash
-cd backend
 
 # Create virtual environment
 python -m venv .venv
 .venv\Scripts\activate        # Windows
 # source .venv/bin/activate   # macOS/Linux
+
+cd backend
 
 # Install dependencies
 pip install -r requirements.txt
